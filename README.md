@@ -12,7 +12,7 @@ To use the Weather App, you will need to have Flutter installed on your machine,
    
  ### Run the app using flutter run.
 
-Features
+## Features
 
 
 #### Authentication
