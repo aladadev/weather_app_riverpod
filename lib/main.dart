@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData.light(useMaterial3: true).copyWith(
+      theme: ThemeData.dark(useMaterial3: true).copyWith(
         dialogTheme:
             DialogTheme(titleTextStyle: Theme.of(context).textTheme.labelLarge),
         appBarTheme: const AppBarTheme(

@@ -33,7 +33,7 @@ class HomeBottomContainer extends StatelessWidget {
         child: Container(
           height: size.height * 0.3,
           decoration: const BoxDecoration(
-            color: Colors.white,
+            color: Color.fromARGB(255, 31, 29, 29),
             borderRadius: BorderRadius.only(
               topLeft: Radius.circular(50),
               topRight: Radius.circular(50),
