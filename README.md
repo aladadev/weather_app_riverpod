@@ -1,4 +1,4 @@
-# Weather App using Flutter, Riverpod State Management and WeatherAPI
+# Weather App using Flutter using WeatherAPI
 
 This repository contains a Flutter app that uses Riverpod State Management and the WeatherAPI to provide users with weather information. The app includes a sign-up and login screen, a homepage showing weather data, a search feature with auto-complete suggestions, a profile page for editing user information, and a settings page for logging out.
 Installation
