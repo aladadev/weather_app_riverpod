@@ -6,7 +6,7 @@ Gets all the data from the API and shows on the Pages.
 
 Uses RIVERPOD STATE MANAGEMENT for Data Management.
 
-Error Failed User Architechture.
+Error Safe User Architechture.
 
 
 Feel Free to use it for learning purpose. 
