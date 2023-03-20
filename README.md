@@ -1,16 +1,17 @@
-# weather_app
+# Weather App With RIVERPOD STATE 
 
-A new Flutter project.
+This weather app uses OPENWEATHER API!
 
-## Getting Started
+Gets all the data from the API and shows on the Pages.
 
-This project is a starting point for a Flutter application.
+Uses RIVERPOD STATE MANAGEMENT for Data Management.
 
-A few resources to get you started if this is your first Flutter project:
+Error Safe User Architechture.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel Free to use it for learning purpose. 
+
+Keep Learning and Keep Building!
+
+
+
